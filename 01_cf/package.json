@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "deploy": "aws cloudformation deploy --template-file=./template.yml --capabilities=CAPABILITY_NAMED_IAM --stack-name myCfStack",
+    "remove": "aws cloudformation delete-stack --stack-name myCfStack"
+  }
+}
