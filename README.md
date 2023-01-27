@@ -1,6 +1,6 @@
-# Making a Serverless Api with Composer tutorial
+# Making a Serverless Api with Composer
 
-The purpose of this repo is to walk thru the various ways you can create
+The purpose of this repo is to walk thru and compare the various ways you can create
 a serverless api using Api gateway and Lambda on AWS. This repos shows example of the following:
 
 -   Using CloudFormation to build a Lambda Function
